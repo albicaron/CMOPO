@@ -1,0 +1,12 @@
+# Ignore a folder and everything inside it
+trained_agents/
+
+0_OLD_TRASH/
+
+Reward_Plot.pdf
+
+# Ignore all `.log` files
+plot.py
+*.log
+.gitignore
+*.sh
